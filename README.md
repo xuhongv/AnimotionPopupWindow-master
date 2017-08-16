@@ -1,6 +1,7 @@
 ### Android自定义View之popupwindow进阶封装：高仿ios “item动画弹出”效果的popupwindow。
-
-
+ 
+ 对应CSDN博客传送门：http://blog.csdn.net/xh870189248/article/details/77258388
+ 
 - 废话不说，先上效果图：
 
 
